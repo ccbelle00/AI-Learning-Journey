@@ -26,3 +26,5 @@ This week examines the ethical implications of AI and how society can ensure AI 
 ✅ Accountability  
 ✅ Privacy protection  
 ✅ Human-centered design  
+
+---

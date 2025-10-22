@@ -17,4 +17,4 @@ Throughout my AI learning journey, I’ve come across tools that made me go, “
 
 ---
 
-✨ These tools remind me why I’m so drawn to AI — it’s not just about the tech, but how it can make learning, working, and creating more human-centered.
+✨ These tools remind me why I’m so drawn to AI. It’s not just about the tech, but how it can make learning, working, and creating more human-centered.
